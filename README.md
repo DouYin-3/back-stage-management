@@ -1,6 +1,11 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+关键文件说明：
+1、page文件夹下的Login.js是登录界面
+2、products文件夹下的List.js是视频管理界面
+3、Edit.js是点击新增按钮后的跳转界面
+4、以上三个文件中都有在代码里的对应位置写上调用接口的注释
 
 ## Available Scripts
 
